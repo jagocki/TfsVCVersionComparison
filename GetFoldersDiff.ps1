@@ -1,4 +1,4 @@
-param($csvOuput="folderDiff.csv", $leftFolderPath="C:\Users\adamjag\Source\Workspaces\DemoScrum\ConsoleApplication1", $rightFolderPath="C:\Users\adamjag\Source\Workspaces\DemoScrum\ConsoleApplication1-v2")
+param($csvOuput="folderDiff.csv", $leftFolderPath="C:\Users\USER\Source\Workspaces\DemoScrum\ConsoleApplication1", $rightFolderPath="C:\Users\adamjag\USER\Workspaces\DemoScrum\ConsoleApplication1-v2")
 
 #global setting
 $tf = "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe"
